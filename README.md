@@ -1,1 +1,2 @@
 # DSA-training
+# bitwise opreator
